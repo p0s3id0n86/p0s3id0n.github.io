@@ -1,8 +1,8 @@
-Origin: Evelyn's Collection
-Label: Evelyn's Collection
+Origin: p0s3id0n's Collection
+Label: p0s3id0n's Collection
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: iOS
 Architectures: iphoneos-arm
 Components: main
-Description: Evelyn's Repo
+Description: p0s3id0n's Repo
